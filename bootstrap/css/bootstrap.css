@@ -7267,3 +7267,7 @@ td.visible-print {
   margin-top: 17.5px;
   padding-left: 15px;
 }
+
+.bottommargin {
+  margin-bottom: 30px;
+}
